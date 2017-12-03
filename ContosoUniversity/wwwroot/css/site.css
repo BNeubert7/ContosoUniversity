@@ -1,6 +1,11 @@
-﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+﻿h1 {
+    font-family: 'Indie Flower', cursive;
+}
+
+.navbar-inverse {
+    background-color: #ff00f2;
+    border-color: #080808;
+    color: #000
 }
 
 /* Wrapping element */
@@ -8,6 +13,7 @@
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    background-color: #ffb900
 }
 
 /* Carousel */
